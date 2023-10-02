@@ -1,0 +1,148 @@
+{
+  "species": {
+    "Colobopsis macrocephala": {
+      "id": 3306,
+      "name": "Colobopsis macrocephala",
+      "genus": "Colobopsis",
+      "species": "macrocephala",
+      "image_url": "",
+      "image_caption": "",
+      "image_licence": "",
+      "url": "https://antcheck.info/species/Colobopsis_macrocephala",
+      "shops": {
+        "QueenOfAnts": {
+          "id": 24,
+          "name": "QueenOfAnts",
+          "country_code": "au",
+          "currency_symbol": "AU$",
+          "variants": {
+            "Colobopsis Macrocephala Queen + 1-4 Workers": {
+              "id": 2715523,
+              "name": "Colobopsis Macrocephala Queen + 1-4 Workers",
+              "url": "https://antcheck.info/redirect?id=328266",
+              "price": 120
+            }
+          }
+        }
+      }
+    },
+    "Colobopsis leonardi": {
+      "id": 3300,
+      "name": "Colobopsis leonardi",
+      "genus": "Colobopsis",
+      "species": "leonardi",
+      "image_url": "",
+      "image_caption": "",
+      "image_licence": "",
+      "url": "https://antcheck.info/species/Colobopsis_leonardi",
+      "shops": {
+        "EstheticAnts": {
+          "id": 84,
+          "name": "EstheticAnts",
+          "country_code": "nl",
+          "currency_symbol": "€",
+          "variants": {
+            "Queen with 1-5 workers": {
+              "id": 2715147,
+              "name": "Queen with 1-5 Workers",
+              "url": "https://antcheck.info/redirect?id=2478433",
+              "price": 54.95
+            }
+          }
+        },
+        "AntAntics": {
+          "id": 80,
+          "name": "AntAntics",
+          "country_code": "gb",
+          "currency_symbol": "£",
+          "variants": {
+            "Queen with 1-3 workers": {
+              "id": 2714155,
+              "name": "Queen with 1-3 workers",
+              "url": "https://antcheck.info/redirect?id=2393790",
+              "price": 54.95
+            },
+            "Queen with 4-10 workers": {
+              "id": 2714156,
+              "name": "Queen with 4-10 workers",
+              "url": "https://antcheck.info/redirect?id=2552543",
+              "price": 59.95
+            }
+          }
+        },
+        "Formicarium.pl": {
+          "id": 41,
+          "name": "Formicarium.pl",
+          "country_code": "pl",
+          "currency_symbol": "zł",
+          "variants": {
+            "Q + 5-10 robotnic": {
+              "id": 2714707,
+              "name": "Q + 5-10 robotnic",
+              "url": "https://antcheck.info/redirect?id=1844554",
+              "price": 330
+            }
+          }
+        },
+        "Antglobe": {
+          "id": 140,
+          "name": "Antglobe",
+          "country_code": "nl",
+          "currency_symbol": "€",
+          "variants": {
+            "Koningin met broed": {
+              "id": 2715414,
+              "name": "Queen with brood",
+              "url": "https://antcheck.info/redirect?id=2477393",
+              "price": 44.99
+            },
+            "Koningin met 1 tot 5 werksters": {
+              "id": 2715415,
+              "name": "Queen with 1 to 5 workers",
+              "url": "https://antcheck.info/redirect?id=2477394",
+              "price": 59.99
+            }
+          }
+        }
+      }
+    },
+    "Colobopsis truncata": {
+      "id": 3345,
+      "name": "Colobopsis truncata",
+      "genus": "Colobopsis",
+      "species": "truncata",
+      "image_url": "https://antcheck.info/include/frontend/img/compressed/small/ants/Colobopsis_truncata.jpeg",
+      "image_caption": "",
+      "image_licence": "AntsCzech <a href=\"https://pixabay.com/users/antsczech-16720584/\">Pixabay</a>",
+      "url": "https://antcheck.info/species/Colobopsis_truncata",
+      "shops": {
+        "AntOnTop": {
+          "id": 109,
+          "name": "AntOnTop",
+          "country_code": "pl",
+          "currency_symbol": "zł",
+          "variants": {
+            "Q": {
+              "id": 2714559,
+              "name": "Q",
+              "url": "https://antcheck.info/redirect?id=2272467",
+              "price": 130
+            },
+            "Q+5-10 w.": {
+              "id": 2714561,
+              "name": "Q+5-10 w.",
+              "url": "https://antcheck.info/redirect?id=2272469",
+              "price": 170
+            },
+            "Q+1-4 w.": {
+              "id": 2714560,
+              "name": "Q+1-4 w.",
+              "url": "https://antcheck.info/redirect?id=2272468",
+              "price": 155
+            }
+          }
+        }
+      }
+    }
+  }
+}
