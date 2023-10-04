@@ -1,5 +1,31 @@
 {
   "species": {
+    "Colobopsis macrocephala": {
+      "id": 3306,
+      "name": "Colobopsis macrocephala",
+      "genus": "Colobopsis",
+      "species": "macrocephala",
+      "image_url": "",
+      "image_caption": "",
+      "image_licence": "",
+      "url": "https://antcheck.info/species/Colobopsis_macrocephala",
+      "shops": {
+        "QueenOfAnts": {
+          "id": 24,
+          "name": "QueenOfAnts",
+          "country_code": "au",
+          "currency_symbol": "AU$",
+          "variants": {
+            "Colobopsis Macrocephala Queen + 1-4 Workers": {
+              "id": 2715523,
+              "name": "Colobopsis Macrocephala Queen + 1-4 Workers",
+              "url": "https://antcheck.info/redirect?id=328266",
+              "price": 120
+            }
+          }
+        }
+      }
+    },
     "Colobopsis leonardi": {
       "id": 3300,
       "name": "Colobopsis leonardi",
